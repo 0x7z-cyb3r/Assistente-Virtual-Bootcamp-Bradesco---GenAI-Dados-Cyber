@@ -1,0 +1,52 @@
+[
+  {
+    "id": 201,
+    "categoria": "Gestão de Caixa",
+    "pergunta": "Como calcular capital de giro?",
+    "tags": [
+      "capital",
+      "giro"
+    ],
+    "resposta": "CGL = Ativo Circulante - Passivo Circulante."
+  },
+  {
+    "id": 202,
+    "categoria": "Governança",
+    "pergunta": "Como separar contas?",
+    "tags": [
+      "separar",
+      "contas"
+    ],
+    "resposta": "Abra uma conta PJ e estipule um pro-labore fixo."
+  },
+  {
+    "id": 203,
+    "categoria": "Planejamento",
+    "pergunta": "Regra 50/30/20?",
+    "tags": [
+      "regra",
+      "50/30/20"
+    ],
+    "resposta": "50% Essencial, 30% Desejos e 20% Poupança/Investimentos."
+  },
+  {
+    "id": 204,
+    "categoria": "Risco",
+    "pergunta": "Perigos de antecipar recebíveis?",
+    "tags": [
+      "antecipação",
+      "recebíveis"
+    ],
+    "resposta": "Altas taxas de desconto e juros comprometem o fluxo futuro."
+  },
+  {
+    "id": 205,
+    "categoria": "Planejamento",
+    "pergunta": "Reserva de emergência?",
+    "tags": [
+      "reserva",
+      "emergência"
+    ],
+    "resposta": "6 a 12 meses de custo de vida alocados em liquidez diária."
+  }
+]
